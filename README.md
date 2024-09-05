@@ -9,4 +9,4 @@ Myongji Univ. Convergence Software (21.03. ~ 25.02.)
 ## 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ibaesuyeon@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@ibaesuyeon)](https://velog.io/@ibaesuyeon)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)](https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%97%B0-%EC%88%98-881835312/)](https://www.linkedin.com/in/%EA%B1%B4-%EC%9D%B4-26771614b/)
