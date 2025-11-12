@@ -1,5 +1,5 @@
 ## Hi, I'm suyeon.👋
-Convergence Software (21.03. ~ 25.02.)
+Myongji Univ. Convergence Software (21.03. ~ 25.02.)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ibaesuyeon)](https://solved.ac/profile/ibaesuyeon)
 ## 
