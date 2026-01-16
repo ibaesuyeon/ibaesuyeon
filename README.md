@@ -2,8 +2,6 @@
 Myongji Univ. Convergence Software (21.03. ~ 25.02.)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ibaesuyeon)](https://solved.ac/profile/ibaesuyeon)
-## 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibaesuyeon&show_icons=true&theme=default)
 
 ## 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:ibaesuyeon@gmail.com)
